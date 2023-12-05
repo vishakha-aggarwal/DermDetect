@@ -1,0 +1,26 @@
+.about {
+    background-color: rgb(25, 25, 25);
+    height: 90vh;
+    width: 90vw;
+    border-radius: 30px;
+  }
+
+.about-heading {
+    margin: 5vh auto ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2vw;
+    letter-spacing: 0.15cm;
+}
+
+.about>img {
+    width: 50vmin;
+    height: 50vmin;
+    border-radius: 50%;
+    box-shadow: white 0px 0px 20px 1px;
+}
+
+.about-description {
+    margin: 5vh 10vh;
+    font-size: 20px;
+    word-break: break-all;
+}
